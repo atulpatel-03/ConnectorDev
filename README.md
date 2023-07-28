@@ -1,4 +1,4 @@
-Live Site - [https://protected-ravine-38980.herokuapp.com/](https://connectordev-frontend.vercel.app/)
+Live Site - https://connectordev-frontend.vercel.app/
 
 api links - https://gleaming-foal-slacks.cyclic.app/api/profile 
 
